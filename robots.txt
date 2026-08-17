@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seharanwar.github.io/sitemap.xml
