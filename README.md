@@ -6,13 +6,12 @@ Pure HTML/CSS/JS, no build step, ready for GitHub Pages.
 ## Files
 - `index.html` — the whole site (single page)
 - `favicon.svg`
+- `Sehar Anwar RESUME.pdf` — downloadable resume
 - `robots.txt`
 - `sitemap.xml`
 
-## 1. Edit before publishing
-- Swap the placeholder email (`sehar.anwar@example.com`) for your real one.
-- Confirm the GitHub (`github.com/seharanwar`) and LinkedIn (`linkedin.com/in/seharanwar`) URLs are correct.
-- Replace the three "Experiments" cards with your real projects (title, one-line description, tags, repo link).
+## 1. Before publishing
+- Confirm the GitHub (`github.com/seharanwar`) and LinkedIn (`linkedin.com/in/sehar-anwar-82b981427`) URLs are correct.
 - Optional: add a `og-image.png` (1200×630) to the repo root for nicer link previews — the meta tags already point to it.
 
 ## 2. Deploy to GitHub Pages
